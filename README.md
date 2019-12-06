@@ -1,0 +1,2 @@
+# juegohack
+Solo jugar
